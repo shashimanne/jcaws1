@@ -14,7 +14,7 @@ public class PassValidatorTest {
 // PassValidator ob=new PassValidator();
 
  //boolean res=ob.isValid("aef123");
-	 boolean res=PassValidator.isValid("afsds123");
+	 boolean res=PassValidator.isValid("af123");
 
 
  assertEquals(true,res);
